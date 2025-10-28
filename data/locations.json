@@ -1,0 +1,1733 @@
+[
+  {
+    "name": "Sunburn",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Muscle Museum",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Fillip",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Falling Down",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Cave",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Showbiz",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Unintended",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Uno",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Sober",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Escape",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Overdue",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Hate This & I'll Love You",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|"
+  },
+  {
+    "name": "Listened to Showbiz",
+    "region": "Albums and EPs",
+    "category": [
+      "Showbiz"
+    ],
+    "requires": "|Showbiz|",
+    "place_item": [
+      "Listened to Showbiz"
+    ]
+  },
+  {
+    "name": "New Born",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Bliss",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Space Dementia",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Hyper Music",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Plug In Baby",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Citizen Erased",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Micro Cuts",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Screenager",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Darkshines",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Feeling Good",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Megalomania",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|"
+  },
+  {
+    "name": "Listened to Origin of Symmetry",
+    "region": "Albums and EPs",
+    "category": [
+      "Origin of Symmetry"
+    ],
+    "requires": "|Origin of Symmetry|",
+    "place_item": [
+      "Listened to Origin of Symmetry"
+    ]
+  },
+  {
+    "name": "Intro",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Apocalypse Please",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Time Is Running Out",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Sing for Absolution",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Stockholm Syndrome",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Falling Away with You",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Interlude",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Hysteria",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Blackout",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Butterflies & Hurricanes",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "The Small Print",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Endlessly",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Thoughts of a Dying Atheist",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Ruled by Secrecy",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|"
+  },
+  {
+    "name": "Listened to Absolution",
+    "region": "Albums and EPs",
+    "category": [
+      "Absolution"
+    ],
+    "requires": "|Absolution|",
+    "place_item": [
+      "Listened to Absolution"
+    ]
+  },
+  {
+    "name": "Take a Bow",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Starlight",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Supermassive Black Hole",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Map of the Problematique",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Soldier's Poem",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Invincible",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Assassin",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Exo-Politics",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "City of Delusion",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Hoodoo",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Knights of Cydonia",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|"
+  },
+  {
+    "name": "Listened to Black Holes and Revelations",
+    "region": "Albums and EPs",
+    "category": [
+      "Black Holes and Revelations"
+    ],
+    "requires": "|Black Holes and Revelations|",
+    "place_item": [
+      "Listened to Black Holes and Revelations"
+    ]
+  },
+  {
+    "name": "Uprising",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Resistance",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Undisclosed Desires",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "United States of Eurasia (+Collateral Damage)",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Guiding Light",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Unnatural Selection",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "MK ULTRA",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "I Belong to You (+Mon Cœur S'ouvre à Ta Voix)",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Exogenesis: Symphony Part 1 (Overture)",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Exogenesis: Symphony Part 2 (Cross-Pollination)",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Exogenesis: Symphony Part 3 (Redemption)",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|"
+  },
+  {
+    "name": "Listened to The Resistance",
+    "region": "Albums and EPs",
+    "category": [
+      "The Resistance"
+    ],
+    "requires": "|The Resistance|",
+    "place_item": [
+      "Listened to The Resistance"
+    ]
+  },
+  {
+    "name": "Supremacy",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Madness",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Panic Station",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Prelude",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Survival",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Follow Me",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Animals",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Explorers",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Big Freeze",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Save Me",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Liquid State",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "The 2nd Law: Unsustainable",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "The 2nd Law: Isolated System",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|"
+  },
+  {
+    "name": "Listened to The 2nd Law",
+    "region": "Albums and EPs",
+    "category": [
+      "The 2nd Law"
+    ],
+    "requires": "|The 2nd Law|",
+    "place_item": [
+      "Listened to The 2nd Law"
+    ]
+  },
+  {
+    "name": "Dead Inside",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Drill Sergeant",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Psycho",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Mercy",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Reapers",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "The Handler",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "JFK",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Defector",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Revolt",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Aftermath",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "The Globalist",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Drones",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|"
+  },
+  {
+    "name": "Listened to Drones",
+    "region": "Albums and EPs",
+    "category": [
+      "Drones"
+    ],
+    "requires": "|Drones|",
+    "place_item": [
+      "Listened to Drones"
+    ]
+  },
+  {
+    "name": "Algorithm",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "The Dark Side",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Pressure",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Propaganda",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Break It to Me",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Something Human",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Thought Contagion",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Get Up and Fight",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Blockades",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Dig Down",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "The Void",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|"
+  },
+  {
+    "name": "Listened to Simulation Theory",
+    "region": "Albums and EPs",
+    "category": [
+      "Simulation Theory"
+    ],
+    "requires": "|Simulation Theory|",
+    "place_item": [
+      "Listened to Simulation Theory"
+    ]
+  },
+  {
+    "name": "Will of the People",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Compliance",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Liberation",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Won't Stand Down",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Ghosts (How Can I Move On)",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "You Make Me Feel Like It's Halloween",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Kill or Be Killed",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Verona",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Euphoria",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "We Are Fucking Fucked",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|"
+  },
+  {
+    "name": "Listened to Will of the People",
+    "region": "Albums and EPs",
+    "category": [
+      "Will of the People"
+    ],
+    "requires": "|Will of the People|",
+    "place_item": [
+      "Listened to Will of the People"
+    ]
+  },
+  {
+    "name": "Overdue (Muse EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muse"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muse|"
+  },
+  {
+    "name": "Cave (Muse EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muse"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muse|"
+  },
+  {
+    "name": "Coma (Muse EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muse"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muse|"
+  },
+  {
+    "name": "Escape (Muse EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muse"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muse|"
+  },
+  {
+    "name": "Listened to Muse EP",
+    "region": "Albums and EPs",
+    "category": [
+      "Muse"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muse|",
+    "place_item": [
+      "Listened to Muse EP"
+    ]
+  },
+  {
+    "name": "Muscle Museum (Muscle Museum EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muscle Museum EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muscle Museum EP|"
+  },
+  {
+    "name": "Sober (Muscle Museum EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muscle Museum EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muscle Museum EP|"
+  },
+  {
+    "name": "Uno (Muscle Museum EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muscle Museum EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muscle Museum EP|"
+  },
+  {
+    "name": "Unintended (Muscle Museum EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Muscle Museum EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muscle Museum EP|"
+  },
+  {
+    "name": "Instant Messenger",
+    "region": "Albums and EPs",
+    "category": [
+      "Muscle Museum EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muscle Museum EP|"
+  },
+  {
+    "name": "(Muscle Museum)#2",
+    "region": "Albums and EPs",
+    "category": [
+      "Muscle Museum EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muscle Museum EP|"
+  },
+  {
+    "name": "Listened to Muscle Museum EP",
+    "region": "Albums and EPs",
+    "category": [
+      "Muscle Museum EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Muscle Museum EP|",
+    "place_item": [
+      "Listened to Muscle Museum EP"
+    ]
+  },
+  {
+    "name": "Host",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Coma (Random 1-8)",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Pink Ego Box",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Forced In (Random 1-8)",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Agitated",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Yes Please (Random 1-8)",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Fillip (Live)",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Do We Need This (Live)",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|"
+  },
+  {
+    "name": "Listened to Random 1-8",
+    "region": "Albums and EPs",
+    "category": [
+      "Random 1-8"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Random 1-8|",
+    "place_item": [
+      "Listened to Random 1-8"
+    ]
+  },
+  {
+    "name": "Uprising (Summer Stadiums 2010 EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Summer Stadiums 2010 EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Summer Stadiums 2010 EP|"
+  },
+  {
+    "name": "Starlight (Summer Stadiums 2010 EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Summer Stadiums 2010 EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Summer Stadiums 2010 EP|"
+  },
+  {
+    "name": "Stockholm Syndrome (Summer Stadiums 2010 EP)",
+    "region": "Albums and EPs",
+    "category": [
+      "Summer Stadiums 2010 EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Summer Stadiums 2010 EP|"
+  },
+  {
+    "name": "Listened to Summer Stadiums 2010 EP",
+    "region": "Albums and EPs",
+    "category": [
+      "Summer Stadiums 2010 EP"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Summer Stadiums 2010 EP|",
+    "place_item": [
+      "Listened to Summer Stadiums 2010 EP"
+    ]
+  },
+  {
+    "name": "Psycho (Live at Koln - Gloria Theatre)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Koln - Gloria Theatre"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Live at Koln - Gloria Theatre|"
+  },
+  {
+    "name": "Supremacy (Live at Koln - Gloria Theatre)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Koln - Gloria Theatre"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Live at Koln - Gloria Theatre|"
+  },
+  {
+    "name": "Mercy (Live at Koln - Gloria Theatre)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Koln - Gloria Theatre"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Live at Koln - Gloria Theatre|"
+  },
+  {
+    "name": "Reapers (Live at Koln - Gloria Theatre)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Koln - Gloria Theatre"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Live at Koln - Gloria Theatre|"
+  },
+  {
+    "name": "Listened to Live at Koln - Gloria Theatre",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Koln - Gloria Theatre"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Live at Koln - Gloria Theatre|",
+    "place_item": [
+      "Listened to Live at Koln - Gloria Theatre"
+    ]
+  },
+  {
+    "name": "Pressure (Spotify Singles)",
+    "region": "Albums and EPs",
+    "category": [
+      "Spotify Singles"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Spotify Singles|"
+  },
+  {
+    "name": "Hungry Like the Wolf",
+    "region": "Albums and EPs",
+    "category": [
+      "Spotify Singles"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Spotify Singles|"
+  },
+  {
+    "name": "Listened to Spotify Singles",
+    "region": "Albums and EPs",
+    "category": [
+      "Spotify Singles"
+    ],
+	"eps": ["Yes"],
+    "requires": "|Spotify Singles|",
+    "place_item": [
+      "Listened to Spotify Singles"
+    ]
+  },
+  {
+    "name": "Forced In",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Shrinking Universe",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Recess",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Yes Please",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Map of Your Head",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Nature_1",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Shine Acoustic",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Ashamed",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "The Gallery",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Hyper Chondriac Music",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo1": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Dead Star (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Micro Cuts (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Citizen Erased (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Showbiz (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Megalomania (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Darkshines (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Screenager (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Space Dementia (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "In Your World (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Muscle Museum (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Agitated (Live, Hullabaloo Soundtrack)",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo2": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|"
+  },
+  {
+    "name": "Listened to Hullabaloo Soundtrack",
+    "region": "Albums and EPs",
+    "category": [
+      "Hullabaloo Soundtrack"
+    ],
+	"hullabaloo": ["Yes"],
+    "requires": "|Hullabaloo Soundtrack|",
+    "place_item": [
+      "Listened to Hullabaloo Soundtrack"
+    ]
+  },
+  {
+    "name": "Intro (H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Knights of Cydonia (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Hysteria (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Supermassive Black Hole (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Map of the Problematique (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Butterflies & Hurricanes (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Invincible (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Starlight (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Time Is Running Out (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "New Born (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Unintended (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Micro Cuts (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Stockholm Syndrome (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Take a Bow (Live, H.A.A.R.P.)",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|"
+  },
+  {
+    "name": "Listened to H.A.A.R.P.",
+    "region": "Albums and EPs",
+    "category": [
+      "H.A.A.R.P."
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|H.A.A.R.P.|",
+    "place_item": [
+      "Listened to H.A.A.R.P."
+    ]
+  },
+  {
+    "name": "Supremacy (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Panic Station (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Resistance (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Hysteria (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Animals (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Knights of Cydonia (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Explorers (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Follow Me (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Madness (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Guiding Light (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Supermassive Black Hole (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Uprising (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Starlight (Live at Rome Olympic Stadium)",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|"
+  },
+  {
+    "name": "Listened to Live at Rome Olympic Stadium",
+    "region": "Albums and EPs",
+    "category": [
+      "Live at Rome Olympic Stadium"
+    ],
+	"live_albums": ["Yes"],
+    "requires": "|Live at Rome Olympic Stadium|",
+    "place_item": [
+      "Listened to Live at Rome Olympic Stadium"
+    ]
+  },
+  {
+    "name": "Listened to Muse",
+    "region": "Albums and EPs",
+    "victory": true,
+    "category": [
+      "[GOAL]"
+    ],
+    "requires": "|Listened to Showbiz| AND |Listened to Origin of Symmetry| AND |Listened to Absolution| AND |Listened to Black Holes and Revelations| AND |Listened to The Resistance| AND |Listened to The 2nd Law| AND |Listened to Drones| AND |Listened to Simulation Theory| AND |Listened to Will of the People| AND ((|Listened to Muse EP| AND |Listened to Muscle Museum EP| AND |Listened to Random 1-8| AND |Listened to Summer Stadiums 2010 EP| AND |Listened to Live at Koln - Gloria Theatre| AND |Listened to Spotify Singles|) OR {YamlDisabled(include_eps)}) AND {OptOne(Listened to Hullabaloo Soundtrack)} AND ((|Listened to H.A.A.R.P.| AND |Listened to Live at Rome Olympic Stadium|) OR {YamlDisabled(include_live_albums)})"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "count": 1,
+    "name": "Showbiz",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Showbiz",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Origin of Symmetry",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Origin of Symmetry",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Absolution",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Absolution",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Holes and Revelations",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Black Holes and Revelations",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Resistance",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to The Resistance",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The 2nd Law",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to The 2nd Law",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Drones",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Drones",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Simulation Theory",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Simulation Theory",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Will of the People",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Will of the People",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Muse",
+    "category": [
+      "EPs",
+	  "Starting EP"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Muse EP",
+    "category": [
+      "Completed Listenings"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Muscle Museum EP",
+    "category": [
+      "EPs",
+	  "Starting EP"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Muscle Museum EP",
+    "category": [
+      "Completed Listenings"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Random 1-8",
+    "category": [
+      "EPs",
+	  "Starting EP"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Random 1-8",
+    "category": [
+      "Completed Listenings"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Stadiums 2010 EP",
+    "category": [
+      "EPs",
+	  "Starting EP"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Summer Stadiums 2010 EP",
+    "category": [
+      "Completed Listenings"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Live at Koln - Gloria Theatre",
+    "category": [
+      "EPs",
+	  "Starting EP"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Live at Koln - Gloria Theatre",
+    "category": [
+      "Completed Listenings"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spotify Singles",
+    "category": [
+      "EPs",
+	  "Starting EP"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Spotify Singles",
+    "category": [
+      "Completed Listenings"
+    ],
+	"eps": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hullabaloo Soundtrack",
+    "category": [
+      "Hullabaloo Soundtrack",
+	  "Starting HS"
+    ],
+	"hullabaloo": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Hullabaloo Soundtrack",
+    "category": [
+      "Completed Listenings"
+    ],
+	"hullabaloo": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "H.A.A.R.P.",
+    "category": [
+      "Live Albums",
+	  "Starting Live"
+    ],
+	"live_albums": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to H.A.A.R.P.",
+    "category": [
+      "Completed Listenings"
+    ],
+	"live_albums": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Live at Rome Olympic Stadium",
+    "category": [
+      "Live Albums",
+	  "Starting Live"
+    ],
+	"live_albums": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to Live at Rome Olympic Stadium",
+    "category": [
+      "Completed Listenings"
+    ],
+	"live_albums": ["Yes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "I'll feel a guilty conscience grow",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blackboard scratched with hate",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wasting and burning out, fading like a—",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Something biblical",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fear and panic in the air",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "My guiding lightning strike",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stellar clouds of gas",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "A trillion memories lost in space and time forevermore",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Reload. Crash out.",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Our love and compassion dissolved",
+    "category": [],
+    "filler": true
+  }
+]
