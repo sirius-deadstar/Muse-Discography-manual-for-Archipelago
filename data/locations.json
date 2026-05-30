@@ -939,6 +939,54 @@
     ]
   },
   {
+    "name": "Unravelling",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+	"wow": ["Yes"],
+    "requires": "|The Wow! Signal|"
+  },
+  {
+    "name": "Be With You",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+	"wow": ["Yes"],
+    "requires": "|The Wow! Signal|"
+  },
+  {
+    "name": "Cryogen",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+	"wow": ["Yes"],
+    "requires": "|The Wow! Signal|"
+  },
+  {
+    "name": "Hexagons",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+	"wow": ["Yes"],
+    "requires": "|The Wow! Signal|"
+  },
+  {
+    "name": "Listened to singles from The Wow! Signal",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+	"wow": ["Yes"],
+    "requires": "|The Wow! Signal|",
+    "place_item": [
+      "Listened to singles from The Wow! Signal"
+    ]
+  },
+  {
     "name": "Overdue (Muse EP)",
     "region": "Albums and EPs",
     "category": [
@@ -1728,6 +1776,6 @@
     "category": [
       "[GOAL]"
     ],
-    "requires": "|Listened to Showbiz| AND |Listened to Origin of Symmetry| AND |Listened to Absolution| AND |Listened to Black Holes and Revelations| AND |Listened to The Resistance| AND |Listened to The 2nd Law| AND |Listened to Drones| AND |Listened to Simulation Theory| AND |Listened to Will of the People| AND ((|Listened to Muse EP| AND |Listened to Muscle Museum EP| AND |Listened to Random 1-8| AND |Listened to Summer Stadiums 2010 EP| AND |Listened to Live at Koln - Gloria Theatre| AND |Listened to Spotify Singles|) OR {YamlDisabled(include_eps)}) AND {OptOne(Listened to Hullabaloo Soundtrack)} AND ((|Listened to H.A.A.R.P.| AND |Listened to Live at Rome Olympic Stadium|) OR {YamlDisabled(include_live_albums)})"
+    "requires": "|Listened to Showbiz| AND |Listened to Origin of Symmetry| AND |Listened to Absolution| AND |Listened to Black Holes and Revelations| AND |Listened to The Resistance| AND |Listened to The 2nd Law| AND |Listened to Drones| AND |Listened to Simulation Theory| AND |Listened to Will of the People| AND (|Listened to singles from The Wow! Signal| OR {YamlDisabled(the_wow_signal)}) AND ((|Listened to Muse EP| AND |Listened to Muscle Museum EP| AND |Listened to Random 1-8| AND |Listened to Summer Stadiums 2010 EP| AND |Listened to Live at Koln - Gloria Theatre| AND |Listened to Spotify Singles|) OR {YamlDisabled(include_eps)}) AND {OptOne(Listened to Hullabaloo Soundtrack)} AND ((|Listened to H.A.A.R.P.| AND |Listened to Live at Rome Olympic Stadium|) OR {YamlDisabled(include_live_albums)})"
   }
 ]
