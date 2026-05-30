@@ -1,4 +1,5 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
+from typing import Any
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 
@@ -12,7 +13,7 @@ from ..Locations import ManualLocation
 from ..Data import game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
-from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat
+from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat, remove_specific_item
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
@@ -44,9 +45,17 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
         "Stellar clouds of gas",
         "A trillion memories lost in space and time forevermore",
         "Reload. Crash out.",
-        "Our love and compassion dissolved"
+        "Our love and compassion dissolved",
+        "The glow dying inside of our bones"
         ]
     return world.random.choice(filler_items)
+
+def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> None:
+    """
+    This is the earliest hook called during generation, before anything else is done.
+    Use it to check or modify incompatible options, or to set up variables for later use.
+    """
+    pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
@@ -57,11 +66,14 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
     locationNamesToRemove: list[str] = [] # List of location names
     
+    IncludeWow = get_option_value(multiworld, player, "the_wow_signal")
     IncludeEPs = get_option_value(multiworld, player, "include_eps")
     IncludeLive = get_option_value(multiworld, player, "include_live_albums")
     IncludeHS = get_option_value(multiworld, player, "hullabaloo_soundtrack")
     
     for location in location_table:
+        if not IncludeWow and location.get("wow"):
+            locationNamesToRemove.append(location["name"])
         if not IncludeEPs and location.get("eps"):
             locationNamesToRemove.append(location["name"])
         if not IncludeLive and location.get("live_albums"):
@@ -105,11 +117,14 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
 
+    IncludeWow = get_option_value(multiworld, player, "the_wow_signal")
     IncludeEPs = get_option_value(multiworld, player, "include_eps")
     IncludeLive = get_option_value(multiworld, player, "include_live_albums")
     IncludeHS = get_option_value(multiworld, player, "hullabaloo_soundtrack")
     
     for item in item_table:
+        if not IncludeWow and item.get("wow"):
+            itemNamesToRemove.append(item["name"])
         if not IncludeEPs and item.get("eps"):
             itemNamesToRemove.append(item["name"])
         if not IncludeLive and item.get("live_albums"):
@@ -124,58 +139,114 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
-        item_pool.remove(item)
+        remove_specific_item(item_pool, item)
     
-    if IncludeEPs and IncludeHS != 3 and IncludeLive:
+    if IncludeWow and IncludeEPs and IncludeHS != 3 and IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow", "Starting EP", "Starting HS", "Starting Live"],
+                "random": 1
+            }
+        ]
+    elif IncludeWow and IncludeEPs and IncludeHS != 3 and not IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow", "Starting EP", "Starting HS"],
+                "random": 1
+            }
+        ]
+    elif IncludeWow and IncludeEPs and IncludeHS == 3 and IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow", "Starting EP", "Starting Live"],
+                "random": 1
+            }
+        ]
+    elif IncludeWow and IncludeEPs and IncludeHS == 3 and not IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow", "Starting EP"],
+                "random": 1
+            }
+        ]
+    elif IncludeWow and not IncludeEPs and IncludeHS != 3 and IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow", "Starting HS", "Starting Live"],
+                "random": 1
+            }
+        ]
+    elif IncludeWow and not IncludeEPs and IncludeHS != 3 and not IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow", "Starting HS"],
+                "random": 1
+            }
+        ]
+    elif IncludeWow and not IncludeEPs and IncludeHS == 3 and IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow", "Starting Live"],
+                "random": 1
+            }
+        ]
+    elif IncludeWow and not IncludeEPs and IncludeHS == 3 and not IncludeLive:
+        starting_items = [
+            {
+                "item_categories": ["Starting Studio", "Starting Wow"],
+                "random": 1
+            }
+        ]
+    elif not IncludeWow and IncludeEPs and IncludeHS != 3 and IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio", "Starting EP", "Starting HS", "Starting Live"],
                 "random": 1
             }
         ]
-    elif IncludeEPs and IncludeHS != 3 and not IncludeLive:
+    elif not IncludeWow and IncludeEPs and IncludeHS != 3 and not IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio", "Starting EP", "Starting HS"],
                 "random": 1
             }
         ]
-    elif IncludeEPs and IncludeHS == 3 and IncludeLive:
+    elif not IncludeWow and IncludeEPs and IncludeHS == 3 and IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio", "Starting EP", "Starting Live"],
                 "random": 1
             }
         ]
-    elif IncludeEPs and IncludeHS == 3 and not IncludeLive:
+    elif not IncludeWow and IncludeEPs and IncludeHS == 3 and not IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio", "Starting EP"],
                 "random": 1
             }
         ]
-    elif not IncludeEPs and IncludeHS != 3 and IncludeLive:
+    elif not IncludeWow and not IncludeEPs and IncludeHS != 3 and IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio", "Starting HS", "Starting Live"],
                 "random": 1
             }
         ]
-    elif not IncludeEPs and IncludeHS != 3 and not IncludeLive:
+    elif not IncludeWow and not IncludeEPs and IncludeHS != 3 and not IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio", "Starting HS"],
                 "random": 1
             }
         ]
-    elif not IncludeEPs and IncludeHS == 3 and IncludeLive:
+    elif not IncludeWow and not IncludeEPs and IncludeHS == 3 and IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio", "Starting Live"],
                 "random": 1
             }
         ]
-    elif not IncludeEPs and IncludeHS == 3 and not IncludeLive:
+    elif not IncludeWow and not IncludeEPs and IncludeHS == 3 and not IncludeLive:
         starting_items = [
             {
                 "item_categories": ["Starting Studio"],
@@ -214,7 +285,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Location Name")
     # item_to_place = next(i for i in item_pool if i.name == "Item Name")
     # location.place_locked_item(item_to_place)
-    # item_pool.remove(item_to_place)
+    # remove_specific_item(item_pool, item_to_place)
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
@@ -307,3 +378,10 @@ def before_extend_hint_information(hint_data: dict[int, dict[int, str]], world: 
 
 def after_extend_hint_information(hint_data: dict[int, dict[int, str]], world: World, multiworld: MultiWorld, player: int) -> None:
     pass
+
+def hook_interpret_slot_data(world: World, player: int, slot_data: dict[str, Any]) -> dict[str, Any]:
+    """
+        Called when Universal Tracker wants to perform a fake generation
+        Use this if you want to use or modify the slot_data for passed into re_gen_passthrough
+    """
+    return slot_data
