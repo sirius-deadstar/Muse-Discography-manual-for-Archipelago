@@ -25,6 +25,13 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
+class WowSignal(Toggle):
+    """
+    Include Unravelling, Be With You, Cryogen, and Hexagons in the listening session.
+    """
+    display_name = "The Wow! Signal"
+    default = True
+
 class EPToggle(Toggle):
     """
     Include Muse, Muscle Museum EP, Random 1-8, Summer Stadiums 2010, Live at Koln, and Spotify Singles in the listening session.
@@ -52,6 +59,7 @@ class Hullabaloo(Choice):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["the_wow_signal"] = WowSignal
     options["include_eps"] = EPToggle
     options["include_live_albums"] = LiveToggle
     options["hullabaloo_soundtrack"] = Hullabaloo
