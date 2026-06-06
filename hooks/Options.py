@@ -27,7 +27,7 @@ from typing import Type, Any
 #
 class WowSignal(Toggle):
     """
-    Include Unravelling, Be With You, Cryogen, and Hexagons in the listening session.
+    Include Unravelling, Be With You, Cryogen, Hexagons, and Nightshift Superstar in the listening session.
     """
     display_name = "The Wow! Signal"
     default = True
