@@ -154,6 +154,23 @@
   },
   {
     "count": 1,
+    "name": "The Wow! Signal",
+    "category": [
+      "Studio Albums",
+	  "Starting Studio"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listened to The Wow! Signal",
+    "category": [
+      "Completed Listenings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Muse",
     "category": [
       "EPs",
@@ -337,7 +354,7 @@
   },
   {
     "count": 1,
-    "name": "Wasting and burning out, fading like a—",
+    "name": "Wasting and burning out, fading like a dead star",
     "category": [],
     "filler": true
   },
@@ -380,6 +397,12 @@
   {
     "count": 1,
     "name": "Our love and compassion dissolved",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "The glow dying inside of our bones",
     "category": [],
     "filler": true
   }
