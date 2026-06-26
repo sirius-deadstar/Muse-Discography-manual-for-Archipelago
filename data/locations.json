@@ -5,7 +5,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "01"
   },
   {
     "name": "Muscle Museum",
@@ -13,7 +14,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "02"
   },
   {
     "name": "Fillip",
@@ -21,7 +23,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "03"
   },
   {
     "name": "Falling Down",
@@ -29,7 +32,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "04"
   },
   {
     "name": "Cave",
@@ -37,7 +41,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "05"
   },
   {
     "name": "Showbiz",
@@ -45,7 +50,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "06"
   },
   {
     "name": "Unintended",
@@ -53,7 +59,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "07"
   },
   {
     "name": "Uno",
@@ -61,7 +68,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "08"
   },
   {
     "name": "Sober",
@@ -69,7 +77,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "09"
   },
   {
     "name": "Escape",
@@ -77,7 +86,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "10"
   },
   {
     "name": "Overdue",
@@ -85,7 +95,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "11"
   },
   {
     "name": "Hate This & I'll Love You",
@@ -93,7 +104,8 @@
     "category": [
       "Showbiz"
     ],
-    "requires": "|Showbiz|"
+    "requires": "|Showbiz|",
+	"sort-key": "12"
   },
   {
     "name": "Listened to Showbiz",
@@ -104,7 +116,8 @@
     "requires": "|Showbiz|",
     "place_item": [
       "Listened to Showbiz"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "New Born",
@@ -112,7 +125,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "01"
   },
   {
     "name": "Bliss",
@@ -120,7 +134,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "02"
   },
   {
     "name": "Space Dementia",
@@ -128,7 +143,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "03"
   },
   {
     "name": "Hyper Music",
@@ -136,7 +152,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "04"
   },
   {
     "name": "Plug In Baby",
@@ -144,7 +161,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "05"
   },
   {
     "name": "Citizen Erased",
@@ -152,7 +170,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "06"
   },
   {
     "name": "Micro Cuts",
@@ -160,7 +179,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "07"
   },
   {
     "name": "Screenager",
@@ -168,7 +188,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "08"
   },
   {
     "name": "Darkshines",
@@ -176,7 +197,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "09"
   },
   {
     "name": "Feeling Good",
@@ -184,7 +206,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "10"
   },
   {
     "name": "Megalomania",
@@ -192,7 +215,8 @@
     "category": [
       "Origin of Symmetry"
     ],
-    "requires": "|Origin of Symmetry|"
+    "requires": "|Origin of Symmetry|",
+	"sort-key": "11"
   },
   {
     "name": "Listened to Origin of Symmetry",
@@ -203,7 +227,8 @@
     "requires": "|Origin of Symmetry|",
     "place_item": [
       "Listened to Origin of Symmetry"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Intro",
@@ -211,7 +236,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "01"
   },
   {
     "name": "Apocalypse Please",
@@ -219,7 +245,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "02"
   },
   {
     "name": "Time Is Running Out",
@@ -227,7 +254,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "03"
   },
   {
     "name": "Sing for Absolution",
@@ -235,7 +263,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "04"
   },
   {
     "name": "Stockholm Syndrome",
@@ -243,7 +272,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "05"
   },
   {
     "name": "Falling Away with You",
@@ -251,7 +281,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "06"
   },
   {
     "name": "Interlude",
@@ -259,7 +290,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "07"
   },
   {
     "name": "Hysteria",
@@ -267,7 +299,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "08"
   },
   {
     "name": "Blackout",
@@ -275,7 +308,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "09"
   },
   {
     "name": "Butterflies & Hurricanes",
@@ -283,7 +317,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "10"
   },
   {
     "name": "The Small Print",
@@ -291,7 +326,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "11"
   },
   {
     "name": "Endlessly",
@@ -299,7 +335,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "12"
   },
   {
     "name": "Thoughts of a Dying Atheist",
@@ -307,7 +344,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "13"
   },
   {
     "name": "Ruled by Secrecy",
@@ -315,7 +353,8 @@
     "category": [
       "Absolution"
     ],
-    "requires": "|Absolution|"
+    "requires": "|Absolution|",
+	"sort-key": "14"
   },
   {
     "name": "Listened to Absolution",
@@ -326,7 +365,8 @@
     "requires": "|Absolution|",
     "place_item": [
       "Listened to Absolution"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Take a Bow",
@@ -334,7 +374,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "01"
   },
   {
     "name": "Starlight",
@@ -342,7 +383,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "02"
   },
   {
     "name": "Supermassive Black Hole",
@@ -350,7 +392,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "03"
   },
   {
     "name": "Map of the Problematique",
@@ -358,7 +401,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "04"
   },
   {
     "name": "Soldier's Poem",
@@ -366,7 +410,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "05"
   },
   {
     "name": "Invincible",
@@ -374,7 +419,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "06"
   },
   {
     "name": "Assassin",
@@ -382,7 +428,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "07"
   },
   {
     "name": "Exo-Politics",
@@ -390,7 +437,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "08"
   },
   {
     "name": "City of Delusion",
@@ -398,7 +446,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "09"
   },
   {
     "name": "Hoodoo",
@@ -406,7 +455,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "10"
   },
   {
     "name": "Knights of Cydonia",
@@ -414,7 +464,8 @@
     "category": [
       "Black Holes and Revelations"
     ],
-    "requires": "|Black Holes and Revelations|"
+    "requires": "|Black Holes and Revelations|",
+	"sort-key": "11"
   },
   {
     "name": "Listened to Black Holes and Revelations",
@@ -425,7 +476,8 @@
     "requires": "|Black Holes and Revelations|",
     "place_item": [
       "Listened to Black Holes and Revelations"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Uprising",
@@ -433,7 +485,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "01"
   },
   {
     "name": "Resistance",
@@ -441,7 +494,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "02"
   },
   {
     "name": "Undisclosed Desires",
@@ -449,7 +503,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "03"
   },
   {
     "name": "United States of Eurasia (+Collateral Damage)",
@@ -457,7 +512,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "04"
   },
   {
     "name": "Guiding Light",
@@ -465,7 +521,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "05"
   },
   {
     "name": "Unnatural Selection",
@@ -473,7 +530,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "06"
   },
   {
     "name": "MK ULTRA",
@@ -481,7 +539,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "07"
   },
   {
     "name": "I Belong to You (+Mon Cœur S'ouvre à Ta Voix)",
@@ -489,7 +548,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "08"
   },
   {
     "name": "Exogenesis: Symphony Part 1 (Overture)",
@@ -497,7 +557,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "09"
   },
   {
     "name": "Exogenesis: Symphony Part 2 (Cross-Pollination)",
@@ -505,7 +566,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "10"
   },
   {
     "name": "Exogenesis: Symphony Part 3 (Redemption)",
@@ -513,7 +575,8 @@
     "category": [
       "The Resistance"
     ],
-    "requires": "|The Resistance|"
+    "requires": "|The Resistance|",
+	"sort-key": "11"
   },
   {
     "name": "Listened to The Resistance",
@@ -524,7 +587,8 @@
     "requires": "|The Resistance|",
     "place_item": [
       "Listened to The Resistance"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Supremacy",
@@ -532,7 +596,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "01"
   },
   {
     "name": "Madness",
@@ -540,7 +605,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "02"
   },
   {
     "name": "Panic Station",
@@ -548,7 +614,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "03"
   },
   {
     "name": "Prelude",
@@ -556,7 +623,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "04"
   },
   {
     "name": "Survival",
@@ -564,7 +632,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "05"
   },
   {
     "name": "Follow Me",
@@ -572,7 +641,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "06"
   },
   {
     "name": "Animals",
@@ -580,7 +650,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "07"
   },
   {
     "name": "Explorers",
@@ -588,7 +659,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "08"
   },
   {
     "name": "Big Freeze",
@@ -596,7 +668,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "09"
   },
   {
     "name": "Save Me",
@@ -604,7 +677,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "10"
   },
   {
     "name": "Liquid State",
@@ -612,7 +686,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "11"
   },
   {
     "name": "The 2nd Law: Unsustainable",
@@ -620,7 +695,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "12"
   },
   {
     "name": "The 2nd Law: Isolated System",
@@ -628,7 +704,8 @@
     "category": [
       "The 2nd Law"
     ],
-    "requires": "|The 2nd Law|"
+    "requires": "|The 2nd Law|",
+	"sort-key": "13"
   },
   {
     "name": "Listened to The 2nd Law",
@@ -639,7 +716,8 @@
     "requires": "|The 2nd Law|",
     "place_item": [
       "Listened to The 2nd Law"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Dead Inside",
@@ -647,7 +725,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "01"
   },
   {
     "name": "Drill Sergeant",
@@ -655,7 +734,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "02"
   },
   {
     "name": "Psycho",
@@ -663,7 +743,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "03"
   },
   {
     "name": "Mercy",
@@ -671,7 +752,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "04"
   },
   {
     "name": "Reapers",
@@ -679,7 +761,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "05"
   },
   {
     "name": "The Handler",
@@ -687,7 +770,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "06"
   },
   {
     "name": "JFK",
@@ -695,7 +779,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "07"
   },
   {
     "name": "Defector",
@@ -703,7 +788,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "08"
   },
   {
     "name": "Revolt",
@@ -711,7 +797,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "09"
   },
   {
     "name": "Aftermath",
@@ -719,7 +806,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "10"
   },
   {
     "name": "The Globalist",
@@ -727,7 +815,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "11"
   },
   {
     "name": "Drones",
@@ -735,7 +824,8 @@
     "category": [
       "Drones"
     ],
-    "requires": "|Drones|"
+    "requires": "|Drones|",
+	"sort-key": "12"
   },
   {
     "name": "Listened to Drones",
@@ -746,7 +836,8 @@
     "requires": "|Drones|",
     "place_item": [
       "Listened to Drones"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Algorithm",
@@ -754,7 +845,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "01"
   },
   {
     "name": "The Dark Side",
@@ -762,7 +854,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "02"
   },
   {
     "name": "Pressure",
@@ -770,7 +863,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "03"
   },
   {
     "name": "Propaganda",
@@ -778,7 +872,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "04"
   },
   {
     "name": "Break It to Me",
@@ -786,7 +881,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "05"
   },
   {
     "name": "Something Human",
@@ -794,7 +890,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "06"
   },
   {
     "name": "Thought Contagion",
@@ -802,7 +899,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "07"
   },
   {
     "name": "Get Up and Fight",
@@ -810,7 +908,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "08"
   },
   {
     "name": "Blockades",
@@ -818,7 +917,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "09"
   },
   {
     "name": "Dig Down",
@@ -826,7 +926,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "10"
   },
   {
     "name": "The Void",
@@ -834,7 +935,8 @@
     "category": [
       "Simulation Theory"
     ],
-    "requires": "|Simulation Theory|"
+    "requires": "|Simulation Theory|",
+	"sort-key": "11"
   },
   {
     "name": "Listened to Simulation Theory",
@@ -845,7 +947,8 @@
     "requires": "|Simulation Theory|",
     "place_item": [
       "Listened to Simulation Theory"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Will of the People",
@@ -853,7 +956,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "01"
   },
   {
     "name": "Compliance",
@@ -861,7 +965,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "02"
   },
   {
     "name": "Liberation",
@@ -869,7 +974,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "03"
   },
   {
     "name": "Won't Stand Down",
@@ -877,7 +983,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "04"
   },
   {
     "name": "Ghosts (How Can I Move On)",
@@ -885,7 +992,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "05"
   },
   {
     "name": "You Make Me Feel Like It's Halloween",
@@ -893,7 +1001,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "06"
   },
   {
     "name": "Kill or Be Killed",
@@ -901,7 +1010,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "07"
   },
   {
     "name": "Verona",
@@ -909,7 +1019,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "08"
   },
   {
     "name": "Euphoria",
@@ -917,7 +1028,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "09"
   },
   {
     "name": "We Are Fucking Fucked",
@@ -925,7 +1037,8 @@
     "category": [
       "Will of the People"
     ],
-    "requires": "|Will of the People|"
+    "requires": "|Will of the People|",
+	"sort-key": "10"
   },
   {
     "name": "Listened to Will of the People",
@@ -936,7 +1049,110 @@
     "requires": "|Will of the People|",
     "place_item": [
       "Listened to Will of the People"
-    ]
+    ],
+	"sort-key": "complete"
+  },
+  {
+    "name": "The Dark Forest",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "01"
+  },
+  {
+    "name": "Nightshift Superstar",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "02"
+  },
+  {
+    "name": "Shimmering Scars",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "03"
+  },
+  {
+    "name": "Cryogen",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "04"
+  },
+  {
+    "name": "Be With You",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "05"
+  },
+  {
+    "name": "Hexagons",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "06"
+  },
+  {
+    "name": "The Sickness In You & I",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "07"
+  },
+  {
+    "name": "Unravelling",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "08"
+  },
+  {
+    "name": "Hush",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "09"
+  },
+  {
+    "name": "Space Debris",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+	"sort-key": "10"
+  },
+  {
+    "name": "Listened to The Wow! Signal",
+    "region": "Albums and EPs",
+    "category": [
+      "The Wow! Signal"
+    ],
+    "requires": "|The Wow! Signal|",
+    "place_item": [
+      "Listened to The Wow! Signal"
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Overdue (Muse EP)",
@@ -945,7 +1161,8 @@
       "Muse"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muse|"
+    "requires": "|Muse|",
+	"sort-key": "01"
   },
   {
     "name": "Cave (Muse EP)",
@@ -954,7 +1171,8 @@
       "Muse"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muse|"
+    "requires": "|Muse|",
+	"sort-key": "02"
   },
   {
     "name": "Coma (Muse EP)",
@@ -963,7 +1181,8 @@
       "Muse"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muse|"
+    "requires": "|Muse|",
+	"sort-key": "03"
   },
   {
     "name": "Escape (Muse EP)",
@@ -972,7 +1191,8 @@
       "Muse"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muse|"
+    "requires": "|Muse|",
+	"sort-key": "04"
   },
   {
     "name": "Listened to Muse EP",
@@ -984,7 +1204,8 @@
     "requires": "|Muse|",
     "place_item": [
       "Listened to Muse EP"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Muscle Museum (Muscle Museum EP)",
@@ -993,7 +1214,8 @@
       "Muscle Museum EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muscle Museum EP|"
+    "requires": "|Muscle Museum EP|",
+	"sort-key": "01"
   },
   {
     "name": "Sober (Muscle Museum EP)",
@@ -1002,7 +1224,8 @@
       "Muscle Museum EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muscle Museum EP|"
+    "requires": "|Muscle Museum EP|",
+	"sort-key": "02"
   },
   {
     "name": "Uno (Muscle Museum EP)",
@@ -1011,7 +1234,8 @@
       "Muscle Museum EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muscle Museum EP|"
+    "requires": "|Muscle Museum EP|",
+	"sort-key": "03"
   },
   {
     "name": "Unintended (Muscle Museum EP)",
@@ -1020,7 +1244,8 @@
       "Muscle Museum EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muscle Museum EP|"
+    "requires": "|Muscle Museum EP|",
+	"sort-key": "04"
   },
   {
     "name": "Instant Messenger",
@@ -1029,7 +1254,8 @@
       "Muscle Museum EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muscle Museum EP|"
+    "requires": "|Muscle Museum EP|",
+	"sort-key": "05"
   },
   {
     "name": "(Muscle Museum)#2",
@@ -1038,7 +1264,8 @@
       "Muscle Museum EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Muscle Museum EP|"
+    "requires": "|Muscle Museum EP|",
+	"sort-key": "06"
   },
   {
     "name": "Listened to Muscle Museum EP",
@@ -1050,7 +1277,8 @@
     "requires": "|Muscle Museum EP|",
     "place_item": [
       "Listened to Muscle Museum EP"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Host",
@@ -1059,7 +1287,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "01"
   },
   {
     "name": "Coma (Random 1-8)",
@@ -1068,7 +1297,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "02"
   },
   {
     "name": "Pink Ego Box",
@@ -1077,7 +1307,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "03"
   },
   {
     "name": "Forced In (Random 1-8)",
@@ -1086,7 +1317,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "04"
   },
   {
     "name": "Agitated",
@@ -1095,7 +1327,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "05"
   },
   {
     "name": "Yes Please (Random 1-8)",
@@ -1104,7 +1337,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "06"
   },
   {
     "name": "Fillip (Live)",
@@ -1113,7 +1347,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "07"
   },
   {
     "name": "Do We Need This (Live)",
@@ -1122,7 +1357,8 @@
       "Random 1-8"
     ],
 	"eps": ["Yes"],
-    "requires": "|Random 1-8|"
+    "requires": "|Random 1-8|",
+	"sort-key": "08"
   },
   {
     "name": "Listened to Random 1-8",
@@ -1134,7 +1370,8 @@
     "requires": "|Random 1-8|",
     "place_item": [
       "Listened to Random 1-8"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Uprising (Summer Stadiums 2010 EP)",
@@ -1143,7 +1380,8 @@
       "Summer Stadiums 2010 EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Summer Stadiums 2010 EP|"
+    "requires": "|Summer Stadiums 2010 EP|",
+	"sort-key": "01"
   },
   {
     "name": "Starlight (Summer Stadiums 2010 EP)",
@@ -1152,7 +1390,8 @@
       "Summer Stadiums 2010 EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Summer Stadiums 2010 EP|"
+    "requires": "|Summer Stadiums 2010 EP|",
+	"sort-key": "02"
   },
   {
     "name": "Stockholm Syndrome (Summer Stadiums 2010 EP)",
@@ -1161,7 +1400,8 @@
       "Summer Stadiums 2010 EP"
     ],
 	"eps": ["Yes"],
-    "requires": "|Summer Stadiums 2010 EP|"
+    "requires": "|Summer Stadiums 2010 EP|",
+	"sort-key": "03"
   },
   {
     "name": "Listened to Summer Stadiums 2010 EP",
@@ -1173,7 +1413,8 @@
     "requires": "|Summer Stadiums 2010 EP|",
     "place_item": [
       "Listened to Summer Stadiums 2010 EP"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Psycho (Live at Koln - Gloria Theatre)",
@@ -1182,7 +1423,8 @@
       "Live at Koln - Gloria Theatre"
     ],
 	"eps": ["Yes"],
-    "requires": "|Live at Koln - Gloria Theatre|"
+    "requires": "|Live at Koln - Gloria Theatre|",
+	"sort-key": "01"
   },
   {
     "name": "Supremacy (Live at Koln - Gloria Theatre)",
@@ -1191,7 +1433,8 @@
       "Live at Koln - Gloria Theatre"
     ],
 	"eps": ["Yes"],
-    "requires": "|Live at Koln - Gloria Theatre|"
+    "requires": "|Live at Koln - Gloria Theatre|",
+	"sort-key": "02"
   },
   {
     "name": "Mercy (Live at Koln - Gloria Theatre)",
@@ -1200,7 +1443,8 @@
       "Live at Koln - Gloria Theatre"
     ],
 	"eps": ["Yes"],
-    "requires": "|Live at Koln - Gloria Theatre|"
+    "requires": "|Live at Koln - Gloria Theatre|",
+	"sort-key": "03"
   },
   {
     "name": "Reapers (Live at Koln - Gloria Theatre)",
@@ -1209,7 +1453,8 @@
       "Live at Koln - Gloria Theatre"
     ],
 	"eps": ["Yes"],
-    "requires": "|Live at Koln - Gloria Theatre|"
+    "requires": "|Live at Koln - Gloria Theatre|",
+	"sort-key": "04"
   },
   {
     "name": "Listened to Live at Koln - Gloria Theatre",
@@ -1221,7 +1466,8 @@
     "requires": "|Live at Koln - Gloria Theatre|",
     "place_item": [
       "Listened to Live at Koln - Gloria Theatre"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Pressure (Spotify Singles)",
@@ -1230,7 +1476,8 @@
       "Spotify Singles"
     ],
 	"eps": ["Yes"],
-    "requires": "|Spotify Singles|"
+    "requires": "|Spotify Singles|",
+	"sort-key": "01"
   },
   {
     "name": "Hungry Like the Wolf",
@@ -1239,7 +1486,8 @@
       "Spotify Singles"
     ],
 	"eps": ["Yes"],
-    "requires": "|Spotify Singles|"
+    "requires": "|Spotify Singles|",
+	"sort-key": "02"
   },
   {
     "name": "Listened to Spotify Singles",
@@ -1251,7 +1499,8 @@
     "requires": "|Spotify Singles|",
     "place_item": [
       "Listened to Spotify Singles"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Forced In",
@@ -1260,7 +1509,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-01"
   },
   {
     "name": "Shrinking Universe",
@@ -1269,7 +1519,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-02"
   },
   {
     "name": "Recess",
@@ -1278,7 +1529,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-03"
   },
   {
     "name": "Yes Please",
@@ -1287,7 +1539,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-04"
   },
   {
     "name": "Map of Your Head",
@@ -1296,7 +1549,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-05"
   },
   {
     "name": "Nature_1",
@@ -1305,7 +1559,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-06"
   },
   {
     "name": "Shine Acoustic",
@@ -1314,7 +1569,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-07"
   },
   {
     "name": "Ashamed",
@@ -1323,7 +1579,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-08"
   },
   {
     "name": "The Gallery",
@@ -1332,7 +1589,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-09"
   },
   {
     "name": "Hyper Chondriac Music",
@@ -1341,7 +1599,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo1": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "1-10"
   },
   {
     "name": "Dead Star (Live, Hullabaloo Soundtrack)",
@@ -1350,7 +1609,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-01"
   },
   {
     "name": "Micro Cuts (Live, Hullabaloo Soundtrack)",
@@ -1359,7 +1619,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-02"
   },
   {
     "name": "Citizen Erased (Live, Hullabaloo Soundtrack)",
@@ -1368,7 +1629,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-03"
   },
   {
     "name": "Showbiz (Live, Hullabaloo Soundtrack)",
@@ -1377,7 +1639,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-04"
   },
   {
     "name": "Megalomania (Live, Hullabaloo Soundtrack)",
@@ -1386,7 +1649,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-05"
   },
   {
     "name": "Darkshines (Live, Hullabaloo Soundtrack)",
@@ -1395,7 +1659,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-06"
   },
   {
     "name": "Screenager (Live, Hullabaloo Soundtrack)",
@@ -1404,7 +1669,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-07"
   },
   {
     "name": "Space Dementia (Live, Hullabaloo Soundtrack)",
@@ -1413,7 +1679,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-08"
   },
   {
     "name": "In Your World (Live, Hullabaloo Soundtrack)",
@@ -1422,7 +1689,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-09"
   },
   {
     "name": "Muscle Museum (Live, Hullabaloo Soundtrack)",
@@ -1431,7 +1699,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-10"
   },
   {
     "name": "Agitated (Live, Hullabaloo Soundtrack)",
@@ -1440,7 +1709,8 @@
       "Hullabaloo Soundtrack"
     ],
 	"hullabaloo2": ["Yes"],
-    "requires": "|Hullabaloo Soundtrack|"
+    "requires": "|Hullabaloo Soundtrack|",
+	"sort-key": "2-11"
   },
   {
     "name": "Listened to Hullabaloo Soundtrack",
@@ -1452,7 +1722,8 @@
     "requires": "|Hullabaloo Soundtrack|",
     "place_item": [
       "Listened to Hullabaloo Soundtrack"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Intro (H.A.A.R.P.)",
@@ -1461,7 +1732,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "01"
   },
   {
     "name": "Knights of Cydonia (Live, H.A.A.R.P.)",
@@ -1470,7 +1742,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "02"
   },
   {
     "name": "Hysteria (Live, H.A.A.R.P.)",
@@ -1479,7 +1752,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "03"
   },
   {
     "name": "Supermassive Black Hole (Live, H.A.A.R.P.)",
@@ -1488,7 +1762,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "04"
   },
   {
     "name": "Map of the Problematique (Live, H.A.A.R.P.)",
@@ -1497,7 +1772,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "05"
   },
   {
     "name": "Butterflies & Hurricanes (Live, H.A.A.R.P.)",
@@ -1506,7 +1782,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "06"
   },
   {
     "name": "Invincible (Live, H.A.A.R.P.)",
@@ -1515,7 +1792,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "07"
   },
   {
     "name": "Starlight (Live, H.A.A.R.P.)",
@@ -1524,7 +1802,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "08"
   },
   {
     "name": "Time Is Running Out (Live, H.A.A.R.P.)",
@@ -1533,7 +1812,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "09"
   },
   {
     "name": "New Born (Live, H.A.A.R.P.)",
@@ -1542,7 +1822,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "10"
   },
   {
     "name": "Unintended (Live, H.A.A.R.P.)",
@@ -1551,7 +1832,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "11"
   },
   {
     "name": "Micro Cuts (Live, H.A.A.R.P.)",
@@ -1560,7 +1842,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "12"
   },
   {
     "name": "Stockholm Syndrome (Live, H.A.A.R.P.)",
@@ -1569,7 +1852,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "13"
   },
   {
     "name": "Take a Bow (Live, H.A.A.R.P.)",
@@ -1578,7 +1862,8 @@
       "H.A.A.R.P."
     ],
 	"live_albums": ["Yes"],
-    "requires": "|H.A.A.R.P.|"
+    "requires": "|H.A.A.R.P.|",
+	"sort-key": "14"
   },
   {
     "name": "Listened to H.A.A.R.P.",
@@ -1590,7 +1875,8 @@
     "requires": "|H.A.A.R.P.|",
     "place_item": [
       "Listened to H.A.A.R.P."
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Supremacy (Live at Rome Olympic Stadium)",
@@ -1599,7 +1885,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "01"
   },
   {
     "name": "Panic Station (Live at Rome Olympic Stadium)",
@@ -1608,7 +1895,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "02"
   },
   {
     "name": "Resistance (Live at Rome Olympic Stadium)",
@@ -1617,7 +1905,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "03"
   },
   {
     "name": "Hysteria (Live at Rome Olympic Stadium)",
@@ -1626,7 +1915,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "04"
   },
   {
     "name": "Animals (Live at Rome Olympic Stadium)",
@@ -1635,7 +1925,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "05"
   },
   {
     "name": "Knights of Cydonia (Live at Rome Olympic Stadium)",
@@ -1644,7 +1935,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "06"
   },
   {
     "name": "Explorers (Live at Rome Olympic Stadium)",
@@ -1653,7 +1945,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "07"
   },
   {
     "name": "Follow Me (Live at Rome Olympic Stadium)",
@@ -1662,7 +1955,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "08"
   },
   {
     "name": "Madness (Live at Rome Olympic Stadium)",
@@ -1671,7 +1965,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "09"
   },
   {
     "name": "Guiding Light (Live at Rome Olympic Stadium)",
@@ -1680,7 +1975,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "10"
   },
   {
     "name": "Supermassive Black Hole (Live at Rome Olympic Stadium)",
@@ -1689,7 +1985,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "11"
   },
   {
     "name": "Uprising (Live at Rome Olympic Stadium)",
@@ -1698,7 +1995,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "12"
   },
   {
     "name": "Starlight (Live at Rome Olympic Stadium)",
@@ -1707,7 +2005,8 @@
       "Live at Rome Olympic Stadium"
     ],
 	"live_albums": ["Yes"],
-    "requires": "|Live at Rome Olympic Stadium|"
+    "requires": "|Live at Rome Olympic Stadium|",
+	"sort-key": "13"
   },
   {
     "name": "Listened to Live at Rome Olympic Stadium",
@@ -1719,7 +2018,8 @@
     "requires": "|Live at Rome Olympic Stadium|",
     "place_item": [
       "Listened to Live at Rome Olympic Stadium"
-    ]
+    ],
+	"sort-key": "complete"
   },
   {
     "name": "Listened to Muse",
@@ -1728,6 +2028,6 @@
     "category": [
       "[GOAL]"
     ],
-    "requires": "|Listened to Showbiz| AND |Listened to Origin of Symmetry| AND |Listened to Absolution| AND |Listened to Black Holes and Revelations| AND |Listened to The Resistance| AND |Listened to The 2nd Law| AND |Listened to Drones| AND |Listened to Simulation Theory| AND |Listened to Will of the People| AND ((|Listened to Muse EP| AND |Listened to Muscle Museum EP| AND |Listened to Random 1-8| AND |Listened to Summer Stadiums 2010 EP| AND |Listened to Live at Koln - Gloria Theatre| AND |Listened to Spotify Singles|) OR {YamlDisabled(include_eps)}) AND {OptOne(Listened to Hullabaloo Soundtrack)} AND ((|Listened to H.A.A.R.P.| AND |Listened to Live at Rome Olympic Stadium|) OR {YamlDisabled(include_live_albums)})"
+    "requires": "|Listened to Showbiz| AND |Listened to Origin of Symmetry| AND |Listened to Absolution| AND |Listened to Black Holes and Revelations| AND |Listened to The Resistance| AND |Listened to The 2nd Law| AND |Listened to Drones| AND |Listened to Simulation Theory| AND |Listened to Will of the People| AND |Listened to The Wow! Signal| AND ((|Listened to Muse EP| AND |Listened to Muscle Museum EP| AND |Listened to Random 1-8| AND |Listened to Summer Stadiums 2010 EP| AND |Listened to Live at Koln - Gloria Theatre| AND |Listened to Spotify Singles|) OR {YamlDisabled(include_eps)}) AND {OptOne(Listened to Hullabaloo Soundtrack)} AND ((|Listened to H.A.A.R.P.| AND |Listened to Live at Rome Olympic Stadium|) OR {YamlDisabled(include_live_albums)})"
   }
 ]
